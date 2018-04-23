@@ -1,0 +1,248 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>61b8df81-2f17-4fb4-8ef3-737853b6fc0f</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>Boring_Stuff_Python.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>Boring_Stuff_Python</Name>
+    <RootNamespace>Boring_Stuff_Python</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Boring_Stuff_Python.py" />
+    <Compile Include="Chp1\first_program.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp2\exitExample.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp3\guessTheNumber.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp3\LocalUseGlobal.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp3\sameName.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp3\sameName2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp3\sameName3.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp3\sameName4.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp3\TowLocalScopes.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp3\zeroDivide.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp3\zeroDivide1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp3\zeroDivide2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp4\allMyCats2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp4\copyFunction.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp4\forLoopsLists.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp4\listAppendInsert.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp4\ListIndex.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp4\magic8Ball2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp4\MultipleAssignment.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp4\myPets.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp4\listSort.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp4\notCopyFunction.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp4\passingReference.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp5\birthdays.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp5\characterCount.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp5\dictGet.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp5\nestDictList.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp5\prettyCharacterCount.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp5\ticTacToe.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp6\bulletPointAdder.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp6\multilineStrings.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp6\picnicTable.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp6\pw.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp6\pypercliptest.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp6\validateInput.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp7\CaseInsensitive.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp7\CharacterClasses.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp7\findall.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp7\GreedyNongreedy.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp7\isPhoneNumber.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp7\MatchingEverything.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp7\MatchingNewlines.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp7\OneOrMore.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp7\OptionalMatching.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp7\phoneAndEmail.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp7\RegexGrouping.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp7\RegexGrouping2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp7\RegexObjects.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp7\RegexPipe.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp7\SpecificRepetitions.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp7\SubstitutingStrings.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp7\ZeroOrMore.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp8\AbsoluteRelativePaths.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp8\backslash.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp8\creatingFolders.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp8\FileReadingWriting.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp8\FileSizeContents.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp8\mcb.pyw">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp8\PathValidity.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp8\randomQuizGenerator.py" />
+    <Compile Include="Chp8\SavingVariables1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp8\SavingVariables2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp8\shelveModule.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp8\totalSize.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp8\workingDirectory.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp8\WritingFiles.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="myCats.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="chp0\" />
+    <Folder Include="Chp1\" />
+    <Folder Include="Chp2\" />
+    <Folder Include="Chp3\" />
+    <Folder Include="Chp4\" />
+    <Folder Include="Chp5\" />
+    <Folder Include="Chp6\" />
+    <Folder Include="Chp7\" />
+    <Folder Include="Chp8\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Chp8\bacon.txt" />
+    <Content Include="Chp8\hello.txt" />
+    <Content Include="Chp8\sonnet29.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
