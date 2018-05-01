@@ -1,0 +1,7 @@
+six
+process_figure_for_rasterizing
+warnings
+Affine2D
+Bbox
+adjust_bbox
+TransformedBbox

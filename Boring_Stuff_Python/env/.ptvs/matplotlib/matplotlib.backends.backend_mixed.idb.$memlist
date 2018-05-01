@@ -1,0 +1,5 @@
+six
+np
+RendererAgg
+MixedModeRenderer
+process_figure_for_rasterizing

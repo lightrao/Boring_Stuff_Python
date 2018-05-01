@@ -1,0 +1,6 @@
+pytest_configure
+pytest_unconfigure
+mpl_test_settings
+pytest
+mpl_image_comparison_parameters
+matplotlib

@@ -1,0 +1,11 @@
+default_etree
+surrogatePairToCodepoint
+supports_lone_surrogates
+text_type
+ModuleType
+moduleFactoryFactory
+MethodDispatcher
+_x
+__all__
+memoize
+isSurrogatePair

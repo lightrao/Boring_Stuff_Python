@@ -1,0 +1,9 @@
+plat_win
+exceptions
+plat_gio
+TrashPermissionError
+plat_other
+compat
+send2trash
+plat_osx
+sys

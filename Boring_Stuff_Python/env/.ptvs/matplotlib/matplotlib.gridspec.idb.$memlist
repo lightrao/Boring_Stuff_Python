@@ -1,0 +1,11 @@
+np
+SubplotSpec
+copy
+matplotlib
+six
+rcParams
+GridSpec
+GridSpecFromSubplotSpec
+warnings
+mtransforms
+GridSpecBase

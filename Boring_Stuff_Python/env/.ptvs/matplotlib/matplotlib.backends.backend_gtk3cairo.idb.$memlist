@@ -1,0 +1,12 @@
+HAS_CAIRO_CFFI
+cairo
+_BackendGTK3Cairo
+RendererGTK3Cairo
+six
+backend_cairo
+FigureManagerGTK3Cairo
+cursors
+FigureCanvasGTK3Cairo
+backend_gtk3
+Figure
+_BackendGTK3

@@ -1,0 +1,11 @@
+cycler==0.10.0
+matplotlib==2.1.1
+numpy==1.14.0
+pip==10.0.1
+pyparsing==2.2.0
+pyperclip==1.6.0
+python-dateutil==2.6.1
+pytz==2017.3
+request==0.0.22
+setuptools==39.0.1
+six==1.11.0

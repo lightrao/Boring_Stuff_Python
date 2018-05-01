@@ -1,0 +1,14 @@
+SimpleLineShadow
+mpatches
+mcolors
+Stroke
+SimplePatchShadow
+six
+RendererBase
+PathPatchEffect
+AbstractPathEffect
+PathEffectRenderer
+withSimplePatchShadow
+mtransforms
+Normal
+withStroke

@@ -1,0 +1,15 @@
+sys
+CompileError
+UnixCCompiler
+get_exception
+str
+os
+LibError
+_commandline_dep_string
+OSError
+IOError
+log
+DistutilsExecError
+UnixCCompiler__compile
+UnixCCompiler_create_static_lib
+replace_method

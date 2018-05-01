@@ -1,0 +1,15 @@
+MARKERS
+re
+mimage
+mcolors
+QtGui
+matplotlib
+six
+figure_edit
+DRAWSTYLES
+get_icon
+cm
+LINESTYLES
+formlayout
+markers
+osp

@@ -1,0 +1,13 @@
+FigureCanvasGTK3Agg
+HAS_CAIRO_CFFI
+cairo
+_BackendGTK3Cairo
+six
+transforms
+backend_agg
+np
+FigureManagerGTK3Agg
+warnings
+backend_gtk3
+Figure
+_BackendGTK3

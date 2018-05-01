@@ -7,10 +7,12 @@
     <StartupFile>Boring_Stuff_Python.py</StartupFile>
     <SearchPath>
     </SearchPath>
-    <WorkingDirectory>.</WorkingDirectory>
+    <WorkingDirectory>Chp9</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>Boring_Stuff_Python</Name>
     <RootNamespace>Boring_Stuff_Python</RootNamespace>
+    <InterpreterId>MSBuild|env|$(MSBuildProjectFullPath)</InterpreterId>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -218,6 +220,33 @@
     <Compile Include="Chp8\WritingFiles.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Chp9\backupToZip.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp9\copy.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp9\CreatingZip.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp9\Deleting.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp9\ExtractingZIP.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp9\MovingRenaming.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp9\ReadingZIP.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp9\renameDates.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp9\WalkingDirectory.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="myCats.py" />
   </ItemGroup>
   <ItemGroup>
@@ -230,11 +259,24 @@
     <Folder Include="Chp6\" />
     <Folder Include="Chp7\" />
     <Folder Include="Chp8\" />
+    <Folder Include="Chp9\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Chp8\bacon.txt" />
     <Content Include="Chp8\hello.txt" />
     <Content Include="Chp8\sonnet29.txt" />
+    <Content Include="requirements.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Interpreter Include="env\">
+      <Id>env</Id>
+      <Version>3.6</Version>
+      <Description>env (Python 3.6 (64-bit))</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>X64</Architecture>
+    </Interpreter>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

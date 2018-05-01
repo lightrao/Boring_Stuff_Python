@@ -1,0 +1,16 @@
+_BackendQT5
+_BackendQT5Agg
+FigureCanvasQTAgg
+ctypes
+NavigationToolbar2QT
+QtGui
+six
+Bbox
+cbook
+FigureCanvasAgg
+traceback
+FigureCanvasQTAggBase
+FigureManagerQT
+QT_API
+FigureCanvasQT
+QtCore
