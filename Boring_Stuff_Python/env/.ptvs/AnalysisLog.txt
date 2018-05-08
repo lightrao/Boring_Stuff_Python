@@ -10329,3 +10329,7 @@ RuntimeError: Could not find TCL routines
 2018-04-30T11:05:23: Deleting 2 files
 2018-04-30T11:05:23: Deleting "C:\Users\light\source\repos\Boring_Stuff_Python\Boring_Stuff_Python\env\.ptvs\_dummy_threading.idb"
 2018-04-30T11:05:23: Deleting "C:\Users\light\source\repos\Boring_Stuff_Python\Boring_Stuff_Python\env\.ptvs\_dummy__threading_local.idb"
+
+2018-05-07T22:04:03: Start analysis
+2018-05-07T22:04:03: IncludeModulesFromModulePath = win32com
+2018-05-07T22:04:04: Deleting 0 files

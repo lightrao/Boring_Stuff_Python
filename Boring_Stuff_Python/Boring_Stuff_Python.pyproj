@@ -7,7 +7,7 @@
     <StartupFile>Boring_Stuff_Python.py</StartupFile>
     <SearchPath>
     </SearchPath>
-    <WorkingDirectory>Chp9</WorkingDirectory>
+    <WorkingDirectory>Chp10</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>Boring_Stuff_Python</Name>
     <RootNamespace>Boring_Stuff_Python</RootNamespace>
@@ -24,6 +24,21 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Boring_Stuff_Python.py" />
+    <Compile Include="Chp10\Assertions.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp10\boxPrint.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp10\carSim.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp10\errorExample.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp10\errorExample2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Chp1\first_program.py">
       <SubType>Code</SubType>
     </Compile>
@@ -260,6 +275,7 @@
     <Folder Include="Chp7\" />
     <Folder Include="Chp8\" />
     <Folder Include="Chp9\" />
+    <Folder Include="Chp10\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Chp8\bacon.txt" />

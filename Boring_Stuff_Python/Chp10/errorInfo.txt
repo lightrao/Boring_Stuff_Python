@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\light\source\repos\Boring_Stuff_Python\Boring_Stuff_Python\Chp10\errorExample2.py", line 3, in <module>
+    raise Exception('This is the error message.')
+Exception: This is the error message.
