@@ -45,6 +45,9 @@
     <Compile Include="Chp10\LoggingLevels.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Chp10\NumberAdding.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Chp1\first_program.py">
       <SubType>Code</SubType>
     </Compile>
