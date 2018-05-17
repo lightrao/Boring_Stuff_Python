@@ -4,15 +4,19 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>61b8df81-2f17-4fb4-8ef3-737853b6fc0f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Boring_Stuff_Python.py</StartupFile>
+    <StartupFile>Chp11\mapIt.py</StartupFile>
     <SearchPath>
     </SearchPath>
-    <WorkingDirectory>Chp10</WorkingDirectory>
+    <WorkingDirectory>Chp11</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>Boring_Stuff_Python</Name>
     <RootNamespace>Boring_Stuff_Python</RootNamespace>
     <InterpreterId>MSBuild|env|$(MSBuildProjectFullPath)</InterpreterId>
     <IsWindowsApplication>False</IsWindowsApplication>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <CommandLineArguments>
+    </CommandLineArguments>
+    <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -49,6 +53,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Chp10\buggyAddingProgram.py.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp11\argument.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp11\mapIt.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Chp1\first_program.py">
