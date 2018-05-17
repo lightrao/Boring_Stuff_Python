@@ -33,6 +33,9 @@
     <Compile Include="Chp10\carSim.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Chp10\coinFlip.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Chp10\errorExample.py">
       <SubType>Code</SubType>
     </Compile>
@@ -45,7 +48,7 @@
     <Compile Include="Chp10\LoggingLevels.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Chp10\NumberAdding.py">
+    <Compile Include="Chp10\buggyAddingProgram.py.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Chp1\first_program.py">
@@ -285,6 +288,7 @@
     <Folder Include="Chp8\" />
     <Folder Include="Chp9\" />
     <Folder Include="Chp10\" />
+    <Folder Include="Chp11\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Chp8\bacon.txt" />
