@@ -61,6 +61,12 @@
     <Compile Include="Chp11\mapIt.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Chp11\CheckingErrors.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp11\requestsget.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Chp1\first_program.py">
       <SubType>Code</SubType>
     </Compile>
