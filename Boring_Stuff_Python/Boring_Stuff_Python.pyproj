@@ -58,6 +58,12 @@
     <Compile Include="Chp11\argument.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Chp11\BeautifulSoupObject1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp11\BeautifulSoupObject2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Chp11\mapIt.py">
       <SubType>Code</SubType>
     </Compile>
