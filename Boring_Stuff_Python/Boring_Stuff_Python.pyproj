@@ -64,6 +64,9 @@
     <Compile Include="Chp11\BeautifulSoupObject2.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Chp11\GettingData.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Chp11\mapIt.py">
       <SubType>Code</SubType>
     </Compile>
@@ -71,6 +74,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Chp11\requestsget.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp11\selectMethod.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp11\selectMethod2.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Chp11\writepage.py">
