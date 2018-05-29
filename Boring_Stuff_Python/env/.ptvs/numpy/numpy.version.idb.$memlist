@@ -1,5 +1,11 @@
-release
-git_revision
-version
-short_version
 full_version
+git_revision
+short_version
+__spec__
+__file__
+release
+__name__
+version
+__builtins__
+__cached__
+__package__

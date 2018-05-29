@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>61b8df81-2f17-4fb4-8ef3-737853b6fc0f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Chp11\mapIt.py</StartupFile>
+    <StartupFile>Chp11\lucky.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>Chp11</WorkingDirectory>
@@ -64,7 +64,13 @@
     <Compile Include="Chp11\BeautifulSoupObject2.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Chp11\downloadXkcd.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Chp11\GettingData.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chp11\lucky.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Chp11\mapIt.py">

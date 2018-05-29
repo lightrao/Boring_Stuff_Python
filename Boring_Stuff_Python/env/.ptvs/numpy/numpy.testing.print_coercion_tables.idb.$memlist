@@ -1,4 +1,13 @@
 print_coercion_table
 GenericObject
-np
+absolute_import
+__spec__
+__file__
+__package__
+division
+print_function
 print_cancast_table
+__builtins__
+__cached__
+np
+__name__

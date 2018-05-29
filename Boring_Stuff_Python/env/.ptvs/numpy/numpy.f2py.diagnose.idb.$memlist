@@ -1,5 +1,14 @@
 run_command
 run
-os
+absolute_import
+__spec__
+__file__
 tempfile
+__package__
+division
+print_function
+os
+__builtins__
+__cached__
 sys
+__name__

@@ -1,2 +1,11 @@
 tobytesdoc
+absolute_import
+__spec__
+__file__
+__package__
+division
+print_function
 add_newdoc
+__builtins__
+__cached__
+__name__

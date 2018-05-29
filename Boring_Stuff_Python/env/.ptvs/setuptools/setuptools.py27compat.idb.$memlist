@@ -1,5 +1,12 @@
-rmtree_safe
-platform
 linux_py2_ascii
-get_all_headers
+rmtree_safe
 six
+get_all_headers
+__spec__
+__file__
+platform
+__name__
+<lambda>
+__builtins__
+__cached__
+__package__

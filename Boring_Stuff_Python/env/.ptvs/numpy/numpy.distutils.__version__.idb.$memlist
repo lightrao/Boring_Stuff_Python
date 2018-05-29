@@ -1,4 +1,13 @@
-major
-minor
-micro
 version
+major
+absolute_import
+__spec__
+__file__
+__package__
+division
+print_function
+minor
+__builtins__
+__cached__
+micro
+__name__

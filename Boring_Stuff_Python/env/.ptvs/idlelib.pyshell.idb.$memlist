@@ -5,7 +5,9 @@ IntVar
 NONE
 EXTENDED
 Variable
+__name__
 SOLID
+capture_warnings
 getdouble
 Widget
 HOST
@@ -29,6 +31,7 @@ BitmapImage
 root
 SEPARATOR
 BEVEL
+__builtins__
 socket
 tokenize
 BaseWidget
@@ -36,7 +39,7 @@ Entry
 PAGES
 tkMessageBox
 MyRPCClient
-scrolledtext
+LEFT
 VERTICAL
 tix
 PseudoOutputFile
@@ -47,6 +50,7 @@ WRITABLE
 BROWSE
 BUTT
 time
+Event
 threading
 LabelFrame
 os
@@ -69,14 +73,16 @@ ANCHOR
 font
 flist
 MULTIPLE
-X
+fix_scaling
 NE
+DoubleVar
 CHECKBUTTON
 SE
 EW
 Toplevel
-warning_stream
+ARC
 DISABLED
+YView
 TkVersion
 fixwordbreaks
 TclVersion
@@ -86,7 +92,7 @@ SW
 Canvas
 LAST
 BOTTOM
-MITER
+CURRENT
 BOTH
 OutputWindow
 BooleanVar
@@ -98,7 +104,7 @@ GROOVE
 SEL_FIRST
 idle_formatwarning
 idle_showwarning
-capture_warnings
+__package__
 CHORD
 ROUND
 OFF
@@ -128,7 +134,7 @@ PyShellFileList
 PhotoImage
 Grid
 CallWrapper
-LEFT
+scrolledtext
 mainloop
 CHAR
 usage_msg
@@ -139,7 +145,7 @@ EventType
 linecache
 DOTBOX
 StringVar
-Event
+__cached__
 ModifiedColorDelegator
 SEL_LAST
 InteractiveInterpreter
@@ -170,7 +176,7 @@ OUTSIDE
 HORIZONTAL
 ALL
 Y
-DoubleVar
+X
 FALSE
 Place
 WORD
@@ -179,14 +185,14 @@ Image
 CASCADE
 Listbox
 SCROLL
-ARC
+warning_stream
 Text
 NW
-YView
+__spec__
 ttk
 messagebox
 FileList
 wantobjects
-CURRENT
+MITER
 Wm
 CENTER

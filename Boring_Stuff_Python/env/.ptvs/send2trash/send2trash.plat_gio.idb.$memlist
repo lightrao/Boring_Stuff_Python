@@ -1,4 +1,10 @@
-TrashPermissionError
-GObject
-Gio
 send2trash
+__cached__
+__spec__
+GObject
+__name__
+Gio
+__builtins__
+__file__
+TrashPermissionError
+__package__

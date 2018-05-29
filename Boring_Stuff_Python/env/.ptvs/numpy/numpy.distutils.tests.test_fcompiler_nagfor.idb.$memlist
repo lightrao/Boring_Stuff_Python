@@ -1,5 +1,14 @@
 assert_
-run_module_suite
-nag_version_strings
+absolute_import
+__spec__
+__file__
 TestNagFCompilerVersions
+__package__
+division
+run_module_suite
+print_function
+nag_version_strings
+__builtins__
+__cached__
 numpy
+__name__

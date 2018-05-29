@@ -1,4 +1,10 @@
+PY3
+__spec__
+__file__
+__name__
 _permission_error
+__builtins__
+__cached__
 errno
 TrashPermissionError
-PY3
+__package__

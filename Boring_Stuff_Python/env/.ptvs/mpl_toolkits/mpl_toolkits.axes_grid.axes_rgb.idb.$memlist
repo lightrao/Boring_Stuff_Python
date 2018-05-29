@@ -1,5 +1,15 @@
 imshow_rgb
 make_rgb_axes
+__spec__
+absolute_import
+__file__
+division
+__name__
 RGBAxes
+print_function
+unicode_literals
+__builtins__
+__cached__
 RGBAxesBase
 Axes
+__package__

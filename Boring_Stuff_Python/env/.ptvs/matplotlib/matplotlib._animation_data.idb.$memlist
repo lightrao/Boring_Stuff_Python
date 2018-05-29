@@ -1,3 +1,9 @@
-INCLUDED_FRAMES
 DISPLAY_TEMPLATE
 JS_INCLUDE
+__spec__
+__file__
+INCLUDED_FRAMES
+__name__
+__builtins__
+__cached__
+__package__

@@ -1,5 +1,15 @@
 GetForegroundWindow
 six
+__spec__
+absolute_import
+__file__
 FocusManager
+division
+__name__
 SetForegroundWindow
+print_function
+unicode_literals
+__builtins__
+__cached__
 rcParams
+__package__

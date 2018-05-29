@@ -1,2 +1,12 @@
+unicode_literals
+__name__
+__builtins__
 six
+__file__
+__package__
+absolute_import
+print_function
+division
 Duration
+__cached__
+__spec__

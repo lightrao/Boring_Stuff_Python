@@ -1,6 +1,12 @@
-sys
 environb
 text_type
-PY3
 os
+__spec__
+__file__
+__name__
 binary_type
+PY3
+__builtins__
+__cached__
+sys
+__package__

@@ -1,5 +1,14 @@
 TestRealScalars
-run_module_suite
-np
 assert_
+absolute_import
+__spec__
+__file__
+__package__
+division
+run_module_suite
+print_function
+__builtins__
+__cached__
 assert_equal
+np
+__name__

@@ -1,4 +1,14 @@
+sys
+__future__
+__spec__
+__file__
 _vendor
+__package__
+__name__
 _internal
-__version__
+os
+__builtins__
+__cached__
 __main__
+__version__
+__path__

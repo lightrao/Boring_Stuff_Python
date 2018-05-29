@@ -1,8 +1,14 @@
 cmaps
-name
+_viridis_data
+__spec__
+__file__
 _plasma_data
+__package__
 ListedColormap
 _magma_data
-_viridis_data
+name
+__builtins__
+__cached__
 data
 _inferno_data
+__name__

@@ -3,10 +3,12 @@ _patch_distribution_metadata_write_pkg_info
 setuptools
 types
 _get_mro
-_patch_distribution_metadata_write_pkg_file
+get_unpatched_function
+__builtins__
 six
-functools
+__file__
 patch_func
+__package__
 inspect
 __all__
 patch_for_msvc_specialized_compiler
@@ -15,5 +17,9 @@ distutils
 get_unpatched
 get_unpatched_class
 import_module
-get_unpatched_function
+__name__
+_patch_distribution_metadata_write_pkg_file
+functools
 platform
+__cached__
+__spec__

@@ -1,6 +1,15 @@
-write_file
-install
 old_install
+write_file
+absolute_import
+__spec__
+__file__
+install
+__package__
+division
+print_function
 have_setuptools
+__builtins__
+__cached__
 old_install_mod
 sys
+__name__

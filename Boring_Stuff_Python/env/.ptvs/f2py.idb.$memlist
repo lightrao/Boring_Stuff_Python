@@ -1,7 +1,13 @@
-mode
-sys
+os
+__spec__
+__file__
+i
+__package__
 division
 print_function
-os
+mode
+__builtins__
+__cached__
 main
-i
+sys
+__name__

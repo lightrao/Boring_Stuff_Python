@@ -1,4 +1,13 @@
 REQUEST
 POST
-__all__
+__spec__
+__file__
 GET
+__package__
+__name__
+post
+get
+__all__
+__builtins__
+__cached__
+__path__

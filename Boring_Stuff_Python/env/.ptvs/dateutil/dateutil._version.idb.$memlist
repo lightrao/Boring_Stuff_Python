@@ -1,5 +1,11 @@
-VERSION_MINOR
-VERSION_TUPLE
-VERSION_PATCH
 VERSION
+VERSION_PATCH
+__spec__
+__file__
+VERSION_TUPLE
+__package__
 VERSION_MAJOR
+__builtins__
+__cached__
+VERSION_MINOR
+__name__

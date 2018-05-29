@@ -1,5 +1,14 @@
-run_module_suite
-test_valid_numpy_version
-np
 assert_
+absolute_import
+__spec__
+__file__
+np
+__package__
+division
+run_module_suite
+print_function
+__builtins__
+__cached__
+test_valid_numpy_version
 re
+__name__

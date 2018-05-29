@@ -1,5 +1,13 @@
-mode
-sys
 os
-main
+__spec__
+__file__
 i
+__package__
+division
+print_function
+mode
+__builtins__
+__cached__
+main
+sys
+__name__

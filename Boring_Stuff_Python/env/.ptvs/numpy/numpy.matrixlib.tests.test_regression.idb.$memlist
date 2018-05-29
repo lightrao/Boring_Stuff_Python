@@ -1,6 +1,15 @@
 assert_raises
-assert_
-np
 run_module_suite
+absolute_import
+__spec__
+__file__
+__package__
+division
+assert_
+print_function
 TestRegression
+__builtins__
+__cached__
 assert_equal
+np
+__name__

@@ -1,7 +1,13 @@
+mplDeprecation
 MatplotlibDeprecationWarning
+__spec__
+__file__
 _generate_deprecation_message
 warnings
+__name__
 deprecated
 functools
-mplDeprecation
+__builtins__
+__cached__
 warn_deprecated
+__package__

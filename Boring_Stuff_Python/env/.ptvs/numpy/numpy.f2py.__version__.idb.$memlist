@@ -1,3 +1,12 @@
-version
 major
+absolute_import
+__spec__
+__file__
+__package__
+division
+print_function
+version
+__builtins__
+__cached__
 version_info
+__name__

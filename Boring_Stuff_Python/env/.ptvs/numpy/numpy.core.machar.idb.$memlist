@@ -1,4 +1,13 @@
 MachAr
 any
+absolute_import
+__spec__
+__file__
+__package__
+division
+print_function
 __all__
+__builtins__
+__cached__
 errstate
+__name__

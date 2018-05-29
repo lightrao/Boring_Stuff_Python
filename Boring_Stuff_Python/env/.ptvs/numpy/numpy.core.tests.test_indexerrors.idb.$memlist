@@ -1,4 +1,13 @@
 assert_raises
 run_module_suite
-np
+absolute_import
+__spec__
+__file__
+__package__
+division
+print_function
 TestIndexErrors
+__builtins__
+__cached__
+np
+__name__

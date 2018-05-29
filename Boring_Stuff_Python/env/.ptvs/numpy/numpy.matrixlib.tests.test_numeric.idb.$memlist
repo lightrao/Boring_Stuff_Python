@@ -1,5 +1,14 @@
 run_module_suite
-test_diagonal
-np
-assert_equal
+absolute_import
+__spec__
+__file__
 TestDot
+__package__
+division
+print_function
+test_diagonal
+__builtins__
+__cached__
+assert_equal
+np
+__name__

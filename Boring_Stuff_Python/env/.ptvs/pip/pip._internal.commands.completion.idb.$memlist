@@ -1,7 +1,14 @@
-textwrap
+BASE_COMPLETION
+__spec__
+absolute_import
+__file__
 COMPLETION_SCRIPTS
 Command
+__name__
 CompletionCommand
-BASE_COMPLETION
+textwrap
+__builtins__
+__cached__
 get_prog
 sys
+__package__

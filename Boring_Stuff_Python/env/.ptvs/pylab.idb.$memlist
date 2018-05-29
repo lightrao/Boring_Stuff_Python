@@ -1,2 +1,8 @@
+__spec__
+__file__
 __doc__
+__name__
+__builtins__
+__cached__
 matplotlib
+__package__

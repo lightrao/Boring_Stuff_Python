@@ -4,7 +4,9 @@ enfold
 EPOCH
 _datetime_to_timestamp
 ZERO
+__package__
 string_types
+__name__
 struct
 bisect
 tzical
@@ -16,12 +18,14 @@ parser
 tzrangebase
 EPOCHORDINAL
 rrule
-_tzinfo
+__file__
 gettz
 _total_seconds
 tzutc
 relativedelta
+__builtins__
 TZFILES
+__spec__
 datetime
 tzrange
 tzwinlocal
@@ -30,6 +34,7 @@ tzfile
 _tzicalvtz
 tzstr
 TZPATHS
+__cached__
 tzlocal
 _tzicalvtzcomp
 os
@@ -37,3 +42,4 @@ tzwin
 _ContextWrapper
 datetime_ambiguous
 datetime_exists
+_tzinfo

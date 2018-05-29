@@ -4,10 +4,13 @@ HOUR
 timedelta
 _time
 DSTSTART
+__name__
 LocalTimezone
+__builtins__
 USTimeZone
-ZERO
+__file__
 DSTEND
+__cached__
 datetime
 Mountain
 first_sunday_on_or_after
@@ -18,5 +21,8 @@ tzinfo
 UTC
 utc
 Eastern
-STDOFFSET
+ZERO
 Pacific
+__package__
+STDOFFSET
+__spec__

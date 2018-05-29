@@ -1,2 +1,13 @@
-performgc
+gc
+os
+__spec__
+__file__
+__future__
+__package__
+__name__
 knownfailure
+nose
+__builtins__
+__cached__
+__path__
+performgc

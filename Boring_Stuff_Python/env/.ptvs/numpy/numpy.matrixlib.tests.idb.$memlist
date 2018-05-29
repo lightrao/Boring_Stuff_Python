@@ -1,4 +1,13 @@
-test_multiarray
 test_numeric
 test_regression
+__spec__
+__file__
+test_multiarray
+__path__
+__name__
+collections
 test_defmatrix
+__builtins__
+__cached__
+__future__
+__package__

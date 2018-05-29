@@ -1,7 +1,14 @@
 _broadcast_to
-os
 _maybe_view_as_subclass
+__spec__
+absolute_import
+__file__
 np
+__name__
 which
 broadcast_to
+os
+__builtins__
+__cached__
 sys
+__package__

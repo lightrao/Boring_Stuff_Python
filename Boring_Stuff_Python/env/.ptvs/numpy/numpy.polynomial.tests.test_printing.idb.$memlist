@@ -1,5 +1,14 @@
 run_module_suite
-TestRepr
 TestStr
+absolute_import
+__spec__
+__file__
+__package__
+division
+TestRepr
+print_function
 poly
+__builtins__
+__cached__
 assert_equal
+__name__

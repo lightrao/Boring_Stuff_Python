@@ -1,4 +1,13 @@
 old_install_data
-have_setuptools
 install_data
+absolute_import
+__spec__
+__file__
+__package__
+division
+print_function
+have_setuptools
+__builtins__
+__cached__
 sys
+__name__

@@ -1,5 +1,15 @@
 Triangulation
 six
-_tri
-np
+__spec__
+absolute_import
+__file__
 _qhull
+division
+__name__
+print_function
+unicode_literals
+__builtins__
+__cached__
+np
+_tri
+__package__

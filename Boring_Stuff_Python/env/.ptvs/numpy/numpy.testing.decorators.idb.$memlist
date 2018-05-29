@@ -1,7 +1,13 @@
+knownfailureif
+skipif
+setastest
 parametrize
 assert_warns
-setastest
-knownfailureif
+__file__
+__cached__
 slow
 deprecated
-skipif
+__name__
+__builtins__
+__package__
+__spec__

@@ -1,6 +1,15 @@
 run_module_suite
-array
-TestMachAr
 MachAr
+absolute_import
+__spec__
+__file__
 errstate
+__package__
+division
+array
+print_function
+__builtins__
+__cached__
+TestMachAr
 ntypes
+__name__

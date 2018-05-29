@@ -1,4 +1,13 @@
 curdir
+absolute_import
+__spec__
+__file__
+__package__
+division
+print_function
 dirname
+__builtins__
+__cached__
 fullapi_hash
 full_api
+__name__

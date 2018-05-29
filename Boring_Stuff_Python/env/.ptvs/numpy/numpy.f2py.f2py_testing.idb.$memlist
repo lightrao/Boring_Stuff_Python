@@ -1,6 +1,15 @@
 memusage
+absolute_import
+__spec__
+__file__
 re
+__package__
+division
 run
+print_function
 cmdline
-sys
+__builtins__
+__cached__
 jiffies
+sys
+__name__

@@ -1,1 +1,12 @@
+os
+__spec__
+__file__
+__future__
+__package__
 subprocess
+subprocess32
+__builtins__
+__cached__
+sys
+__name__
+__path__

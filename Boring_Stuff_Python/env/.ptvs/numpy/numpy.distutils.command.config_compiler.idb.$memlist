@@ -1,5 +1,14 @@
 show_fortran_compilers
-log
-config_fc
 config_cc
+absolute_import
+__spec__
+__file__
+config_fc
+__package__
+division
+print_function
+log
+__builtins__
+__cached__
 Command
+__name__

@@ -1,5 +1,14 @@
-os
-get_cmd
 install_clib
+get_cmd
+absolute_import
+__spec__
+__file__
 new_compiler
+__package__
+division
+print_function
+os
+__builtins__
+__cached__
 Command
+__name__

@@ -1,6 +1,12 @@
-needs_makedirs
-errno
-_makedirs_31
-makedirs
-sys
 os
+__spec__
+__file__
+needs_makedirs
+_makedirs_31
+__name__
+makedirs
+__builtins__
+__cached__
+errno
+sys
+__package__

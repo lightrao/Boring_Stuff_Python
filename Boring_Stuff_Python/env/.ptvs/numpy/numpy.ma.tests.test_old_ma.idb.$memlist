@@ -21,6 +21,7 @@ sort
 nonzero
 less
 sometrue
+__package__
 average
 getmask
 masked_greater_equal
@@ -32,10 +33,12 @@ count
 less_equal
 divide
 np
+print_function
 sin
 array
 pi
 multiply
+division
 take
 assert_
 eqmask
@@ -49,6 +52,7 @@ allequal
 cosh
 alltrue
 assert_equal
+__builtins__
 log
 masked_less
 arcsin
@@ -64,12 +68,16 @@ exp
 ones
 reduce
 masked
+__spec__
 where
 greater_equal
 masked_where
+__cached__
 add
 outer
 not_equal
+absolute_import
+__name__
 masked_print_option
 equal
 greater
@@ -79,6 +87,7 @@ subtract
 product
 cos
 choose
+__file__
 assert_array_equal
 run_module_suite
 masked_inside
