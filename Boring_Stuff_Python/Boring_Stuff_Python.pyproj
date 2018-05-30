@@ -88,6 +88,9 @@
     <Compile Include="Chp11\selectMethod2.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Chp11\StartingSelenium.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Chp11\writepage.py">
       <SubType>Code</SubType>
     </Compile>

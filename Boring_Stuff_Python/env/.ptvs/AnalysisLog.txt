@@ -13312,3 +13312,126 @@ RuntimeError: Could not find TCL routines
 2018-05-28T20:37:55: Deleting 2 files
 2018-05-28T20:37:55: Deleting "C:\Users\light\source\repos\Boring_Stuff_Python\Boring_Stuff_Python\env\.ptvs\_dummy_threading.idb"
 2018-05-28T20:37:55: Deleting "C:\Users\light\source\repos\Boring_Stuff_Python\Boring_Stuff_Python\env\.ptvs\_dummy__threading_local.idb"
+
+2018-05-30T08:22:24: Start analysis
+2018-05-30T08:22:24: IncludeModulesFromModulePath = win32com
+2018-05-30T08:22:26: Including c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium because selenium.webdriver.firefox.amd64.x_ignore_nofocus needs updating
+2018-05-30T08:22:26: Deleting 0 files
+2018-05-30T08:22:26: Scraping selenium.webdriver.firefox.amd64.x_ignore_nofocus
+2018-05-30T08:22:26: Command: C:\Users\light\source\repos\Boring_Stuff_Python\Boring_Stuff_Python\env\Scripts\python.exe -B "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape selenium.webdriver.firefox.amd64.x_ignore_nofocus c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages C:\Users\light\source\repos\Boring_Stuff_Python\Boring_Stuff_Python\env\.ptvs\selenium\selenium.webdriver.firefox.amd64.x_ignore_nofocus
+2018-05-30T08:22:26: Output
+__import__("selenium.webdriver.firefox.amd64.x_ignore_nofocus")
+2018-05-30T08:22:26: [WARNING] Errors
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py", line 48, in <module>
+    __import__(mod_name)
+ModuleNotFoundError: No module named 'selenium.webdriver.firefox.amd64.x_ignore_nofocus'
+2018-05-30T08:22:26: [ERROR] Failed to scrape selenium.webdriver.firefox.amd64.x_ignore_nofocus (Exit code: 1)
+2018-05-30T08:22:26: Scraping selenium.webdriver.firefox.x86.x_ignore_nofocus
+2018-05-30T08:22:26: Command: C:\Users\light\source\repos\Boring_Stuff_Python\Boring_Stuff_Python\env\Scripts\python.exe -B "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape selenium.webdriver.firefox.x86.x_ignore_nofocus c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages C:\Users\light\source\repos\Boring_Stuff_Python\Boring_Stuff_Python\env\.ptvs\selenium\selenium.webdriver.firefox.x86.x_ignore_nofocus
+2018-05-30T08:22:26: Output
+__import__("selenium.webdriver.firefox.x86.x_ignore_nofocus")
+2018-05-30T08:22:26: [WARNING] Errors
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py", line 48, in <module>
+    __import__(mod_name)
+ModuleNotFoundError: No module named 'selenium.webdriver.firefox.x86.x_ignore_nofocus'
+2018-05-30T08:22:26: [ERROR] Failed to scrape selenium.webdriver.firefox.x86.x_ignore_nofocus (Exit code: 1)
+2018-05-30T08:22:26: Scraped 2 files
+2018-05-30T08:22:26: astropy.CallDepth = 0
+2018-05-30T08:22:26: delphixpy.CallDepth = 0
+2018-05-30T08:22:26: matplotlib.CallDepth = 3
+2018-05-30T08:22:26: pandas.CallDepth = 0
+2018-05-30T08:22:26: sympy.CallDepth = 0
+2018-05-30T08:22:26: Start group "c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium" with 85 files
+2018-05-30T08:22:26: Parsing complete
+2018-05-30T08:22:26: Analyzing "selenium" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\__init__.py")
+2018-05-30T08:22:26: Analyzing "selenium.common.exceptions" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\common\exceptions.py")
+2018-05-30T08:22:27: Analyzing "selenium.common" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\common\__init__.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\__init__.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.android.webdriver" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\android\webdriver.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.android" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\android\__init__.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.blackberry.webdriver" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\blackberry\webdriver.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.blackberry" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\blackberry\__init__.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.chrome.options" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\chrome\options.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.chrome.remote_connection" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\chrome\remote_connection.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.chrome.service" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\chrome\service.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.chrome.webdriver" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\chrome\webdriver.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.chrome" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\chrome\__init__.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.action_chains" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\action_chains.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.alert" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\alert.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.by" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\by.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.desired_capabilities" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\desired_capabilities.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.keys" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\keys.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.proxy" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\proxy.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.service" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\service.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.touch_actions" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\touch_actions.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.utils" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\utils.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\__init__.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.actions.action_builder" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\actions\action_builder.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.actions.input_device" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\actions\input_device.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.actions.interaction" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\actions\interaction.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.actions.key_actions" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\actions\key_actions.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.actions.key_input" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\actions\key_input.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.actions.mouse_button" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\actions\mouse_button.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.actions.pointer_actions" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\actions\pointer_actions.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.actions.pointer_input" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\actions\pointer_input.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.actions" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\actions\__init__.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.html5.application_cache" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\html5\application_cache.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.common.html5" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\common\html5\__init__.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.edge.options" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\edge\options.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.edge.service" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\edge\service.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.edge.webdriver" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\edge\webdriver.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.edge" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\edge\__init__.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.firefox.extension_connection" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\firefox\extension_connection.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.firefox.firefox_binary" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\firefox\firefox_binary.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.firefox.firefox_profile" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\firefox\firefox_profile.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.firefox.options" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\firefox\options.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.firefox.remote_connection" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\firefox\remote_connection.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.firefox.service" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\firefox\service.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.firefox.webdriver" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\firefox\webdriver.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.firefox.webelement" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\firefox\webelement.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.firefox" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\firefox\__init__.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.ie.options" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\ie\options.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.ie.service" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\ie\service.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.ie.webdriver" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\ie\webdriver.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.ie" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\ie\__init__.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.opera.options" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\opera\options.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.opera.webdriver" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\opera\webdriver.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.opera" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\opera\__init__.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.phantomjs.service" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\phantomjs\service.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.phantomjs.webdriver" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\phantomjs\webdriver.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.phantomjs" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\phantomjs\__init__.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.remote.command" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\remote\command.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.remote.errorhandler" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\remote\errorhandler.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.remote.file_detector" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\remote\file_detector.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.remote.mobile" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\remote\mobile.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.remote.remote_connection" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\remote\remote_connection.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.remote.switch_to" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\remote\switch_to.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.remote.utils" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\remote\utils.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.remote.webdriver" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\remote\webdriver.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.remote.webelement" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\remote\webelement.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.remote" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\remote\__init__.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.safari.permissions" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\safari\permissions.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.safari.remote_connection" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\safari\remote_connection.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.safari.service" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\safari\service.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.safari.webdriver" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\safari\webdriver.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.safari" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\safari\__init__.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.support.abstract_event_listener" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\support\abstract_event_listener.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.support.color" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\support\color.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.support.events" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\support\events.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.support.event_firing_webdriver" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\support\event_firing_webdriver.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.support.expected_conditions" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\support\expected_conditions.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.support.select" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\support\select.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.support.ui" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\support\ui.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.support.wait" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\support\wait.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.support" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\support\__init__.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.webkitgtk.options" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\webkitgtk\options.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.webkitgtk.service" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\webkitgtk\service.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.webkitgtk.webdriver" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\webkitgtk\webdriver.py")
+2018-05-30T08:22:27: Analyzing "selenium.webdriver.webkitgtk" ("c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium\webdriver\webkitgtk\__init__.py")
+2018-05-30T08:22:27: Starting analysis of 85 modules
+2018-05-30T08:22:27: Analysis complete
+2018-05-30T08:22:27: Saving group "c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium"
+2018-05-30T08:22:28: End of group "c:\users\light\source\repos\boring_stuff_python\boring_stuff_python\env\lib\site-packages\selenium"
+2018-05-30T08:22:29: Deleting 0 files

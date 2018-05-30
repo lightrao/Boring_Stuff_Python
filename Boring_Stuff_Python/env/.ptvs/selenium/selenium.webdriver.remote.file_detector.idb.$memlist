@@ -1,0 +1,12 @@
+keys_to_typing
+FileDetector
+abc
+__spec__
+__file__
+__name__
+UselessFileDetector
+LocalFileDetector
+os
+__builtins__
+__cached__
+__package__
